@@ -1,0 +1,16 @@
+blog
+
+Admin Panel :
+
+1. manage post => create, edit, delete, list
+2. manage category => create, edit, delete, list
+3. account setting => name, password, email
+4. dashboard => total post, total category, recent post
+
+User Panel : 
+
+1. home page => post list, category
+2. all post => all posts, category
+3. single post => post details, category, recent posts
+4. contact us
+5. about us
